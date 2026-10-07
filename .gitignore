@@ -1,0 +1,18 @@
+data/
+__pycache__/
+*.pyc
+evalkit/pool_*.json.bak
+
+# secrets and local environment: never commit
+.env
+.env.*
+.streamlit/secrets.toml
+.venv/
+venv/
+
+# editor / assistant tool files: keep out of the repository
+.claude/
+CLAUDE.md
+.vscode/
+.DS_Store
+*.log

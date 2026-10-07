@@ -1,0 +1,8 @@
+[
+{"q":"T1","pid":71428,"rel":"N","st":"C","role":"FB","party":"NA","span":"Respondent No.1 sent the statutory demand notice under Section 138 of the Negotiable Instruments Act","why":"Facts stating that a demand notice was sent; no ruling on whether notice is a pre-condition.","conf":"M"},
+{"q":"T1","pid":93583,"rel":"N","st":"C","role":"FB","party":"NA","span":"Since no payment was forthcoming pursuant to the two statutory demand notices","why":"Facts of the complaints; notice is mentioned only as a fact.","conf":"M"},
+{"q":"T1","pid":185358,"rel":"R","st":"O","role":"CH","party":"NA","span":"Secondly, a demand of payment ought to have been made by the presenter of the cheque to the issuer","why":"Headnote holding lists a demand for payment (notice) as one of three essential conditions for invoking s.138, and says the cause of action arises only after failure to pay on receipt of the notice.","conf":"M"},
+{"q":"T1","pid":47145,"rel":"N","st":"C","role":"CR","party":"NA","span":"a presumption under Section 139 of the Negotiable Instruments Act in favour of the holder would be attracted","why":"About the s.139 presumption and burden of proof.","conf":"H"},
+{"q":"T1","pid":193067,"rel":"N","st":"C","role":"CH","party":"NA","span":"Section 138 of the NI Act being penal in nature has to be strictly construed","why":"Headnote on strict construction, drawer liability and the meaning of 'account maintained by him'; nothing on demand notice.","conf":"M"},
+{"q":"T1","pid":81387,"rel":"N","st":"C","role":"FB","party":"NA","span":"has refused to quash the complaint filed against the appellant","why":"Procedural background of an appeal against refusal to quash a s.138/141 complaint.","conf":"H"}
+]

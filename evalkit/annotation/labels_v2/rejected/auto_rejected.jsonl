@@ -1,0 +1,46 @@
+{"query_id": "D1", "passage_id": 185148, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "D3", "passage_id": 57386, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "D3", "passage_id": 54151, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F2", "passage_id": 62487, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F2", "passage_id": 194597, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F3", "passage_id": 74217, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F3", "passage_id": 94404, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F4", "passage_id": 6394, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F4", "passage_id": 141245, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F4", "passage_id": 141254, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F5", "passage_id": 168914, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F6", "passage_id": 151360, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "F6", "passage_id": 63379, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T2", "passage_id": 187164, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T2", "passage_id": 175519, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T2", "passage_id": 180328, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T4", "passage_id": 31238, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 148723, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 40434, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 190096, "reason": "Model output had an invalid label value; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 12677, "reason": "Model output had an invalid label value; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 166303, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 166174, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 57863, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 19702, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 42030, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T5", "passage_id": 151531, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T6", "passage_id": 187973, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T6", "passage_id": 187966, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T7", "passage_id": 145625, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T7", "passage_id": 116978, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T8", "passage_id": 111310, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T8", "passage_id": 35469, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T9", "passage_id": 163375, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 187598, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 10511, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 67213, "reason": "Classifier call failed (ValueError); no stance assigned.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 13048, "reason": "Classifier call failed (ValueError); no stance assigned.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 10512, "reason": "Classifier call failed (ValueError); no stance assigned.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 150896, "reason": "Classifier call failed (ValueError); no stance assigned.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T10", "passage_id": 59590, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T11", "passage_id": 54334, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T11", "passage_id": 156524, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T11", "passage_id": 45652, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T12", "passage_id": 152009, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}
+{"query_id": "T12", "passage_id": 192840, "reason": "Model evidence span is not an exact substring of the passage; treated as uncertain.", "model": "ollama:qwen2.5:7b"}

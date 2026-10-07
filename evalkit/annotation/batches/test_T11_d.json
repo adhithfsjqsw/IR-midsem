@@ -1,0 +1,6 @@
+[
+{"q":"T11","pid":156500,"rel":"R","st":"S","role":"CH","party":"NA","span":"Thus, it is clear that there had not been any such misdescription of the property","why":"Headnote: the High Court's reversal of the landlord's eviction on bona fide requirement rested on a misdescription that the Supreme Court finds did not exist; the restoration of the eviction orders is stated in another passage of the same judgment. Headnote confidence is capped.","conf":"M"},
+{"q":"T11","pid":100847,"rel":"R","st":"C","role":"SR","party":"NA","span":"The prescribed authority may, on an application of the landlord in that behalf, order the eviction of a tenant","why":"Quotes the statutory ground and discusses a six-month notice requirement; it does not decide whether eviction for bona fide requirement may be granted.","conf":"M"},
+{"q":"T11","pid":31075,"rel":"N","st":"C","role":"FB","party":"NA","span":"It was the case on behalf of the original plaintiff that the suit property was sold by registered Sale Deed","why":"Title dispute over sale deeds and partition, unrelated to tenant eviction.","conf":"H"},
+{"q":"T11","pid":187368,"rel":"N","st":"C","role":"CR","party":"NA","span":"Contempt of court is a serious legal infraction","why":"Contempt of court, unrelated to eviction on bona fide requirement.","conf":"H"}
+]

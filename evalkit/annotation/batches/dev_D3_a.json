@@ -1,0 +1,10 @@
+[
+{"q":"D3","pid":145252,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay condoned.","why":"Bare procedural order condoning delay in a petition; no reasoning on the legal question.","conf":"M"},
+{"q":"D3","pid":158723,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay condoned.","why":"Bare procedural order; no reasoning.","conf":"M"},
+{"q":"D3","pid":393,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay in filing Special Leave Petition condoned.","why":"Bare procedural order; no reasoning.","conf":"M"},
+{"q":"D3","pid":148591,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay condoned on 23.08.2023.","why":"Bare procedural order; no reasoning.","conf":"M"},
+{"q":"D3","pid":140014,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay condoned.","why":"Bare procedural order; no reasoning.","conf":"M"},
+{"q":"D3","pid":165017,"rel":"R","st":"C","role":"PA","party":"S","span":"According to the Appellant the delay ought to have been condoned and his appeal should have been heard on its merits.","why":"Appellant's submission that delay should be condoned; the court's own view follows in the next paragraph and is not part of this passage.","conf":"H"},
+{"q":"D3","pid":144354,"rel":"N","st":"C","role":"FB","party":"NA","span":"Delay condoned.","why":"Bare procedural order in a transfer petition; no reasoning.","conf":"M"},
+{"q":"D3","pid":151075,"rel":"N","st":"C","role":"FB","party":"NA","span":"The delay in filing I.A. No. 21154/2022 is condoned","why":"Routine order condoning delay in an interlocutory application, not an appeal, without reasoning.","conf":"M"}
+]

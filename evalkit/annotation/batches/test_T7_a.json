@@ -1,0 +1,8 @@
+[
+{"q":"T7","pid":140585,"rel":"N","st":"C","role":"SR","party":"NA","span":"The State shall promote with special care the educational and economic interests of the weaker sections of the people","why":"Quoted text of Article 46, a directive principle; not about promotions.","conf":"H"},
+{"q":"T7","pid":145625,"rel":"N","st":"C","role":"SR","party":"NA","span":"Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes","why":"Quoted Article 332 on legislative seats; a different condition.","conf":"H"},
+{"q":"T7","pid":60619,"rel":"N","st":"C","role":"CR","party":"NA","span":"it is only women, who belong to the Other Backward Classes, who can compete for the posts reserved for Other Backward Classes (Women)","why":"Horizontal reservation for women in direct recruitment, not reservation in promotion.","conf":"H"},
+{"q":"T7","pid":190786,"rel":"N","st":"C","role":"SR","party":"NA","span":"“Scheduled Castes” is defined in the Constitution under Article 366(24) thereof","why":"Constitutional definition of Scheduled Castes in a dispute about the State's list.","conf":"H"},
+{"q":"T7","pid":3725,"rel":"N","st":"C","role":"CR","party":"NA","span":"The enabling provision of Article 16(4) of the Constitution has to yield to the constitutional scheme of Article 341 and Article 342 of the Constitution.","why":"About reservation for migrants from other States/territories; different condition from reservation in promotion.","conf":"M"},
+{"q":"T7","pid":78517,"rel":"N","st":"C","role":"CR","party":"NA","span":"This case does not pertain to quantifying data for promotional avenues.","why":"Court distinguishes Jarnail Singh (promotion) from a case about reservation for scheduled tribes in teacher posts; promotion is not the issue.","conf":"M"}
+]

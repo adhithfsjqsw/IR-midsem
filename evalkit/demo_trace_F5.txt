@@ -1,0 +1,56 @@
+QUERY: Can a dying declaration alone form the basis of conviction?
+INDEX: 5776 judgments, 195640 passages, 139115 terms, 29700410 positions
+
+== 1. QUERY PARSER: concept groups (stem variants), profile
+  concept 'dying': die[query,w=1.0]
+  concept 'declaration': declar[query,w=1.0]
+  concept 'alone': alon[query,w=1.0]
+  concept 'form': form[query,w=1.0]
+  concept 'basis': basi[query,w=1.0]
+  concept 'conviction': convict[query,w=1.0]
+  stance profile: permission
+
+== 2. BASELINE (plain tf-idf cosine, no Boolean/proximity/zones)
+  1.  37.59  2024 INSC 422   RAJENDRA S/O RAMDAS KOLHE versus STATE OF MAHARASHTRA
+  2.  33.67  2022 INSC 1296  RAJARAM versus STATE OF MADHYA PRADESH & ORS
+  3.  31.34  2022 INSC 634   UTTAM versus THE STATE OF MAHARASHTRA
+  4.  31.25  2020 INSC 5     PURSHOTTAM CHOPRA & ANR. versus STATE (GOVT. OF NCT DELHI)
+  5.  30.64  2022 INSC 1139  THE STATE OF JHARKHAND versus  SHAILENDRA KUMAR RAI @ PANDAV RAI
+
+== 3. SUPPORT SPEC on the same engine
+  postings (passage df) per concept group: [('dying', 3809), ('declaration', 12751), ('alone', 4072), ('form', 14316), ('basis', 20279), ('conviction', 9672)]
+  Boolean mode: relaxed to >= 5 of 6 concept groups | intersection order (rarest first): ['dying', 'alone', 'conviction', 'declaration', 'form', 'basis'] | candidates: 65 | pruned synonyms: None
+
+  TOP SUPPORT-SPEC HIT: UTTAM versus THE STATE OF MAHARASHTRA | [2022] 5 S.C.R. 863 | 2022 INSC 634 | bench 2 | 02-06-2022
+  passage (headnote zone, pid 125696): In Shudhakar v. State of Madhya Pradesh15, this Court had opined that once a dying declaration is found to be reliable, it can form the basis of conviction and made the following observations : “20. The “dying declaration” is the last statement made by a person at a stage when he is in serious apprehension of his death and expects no chances of his survival. At such time, it is expected that a person will speak the t...
+  query/document term weights (ltc query weight wq, lnc doc weight wd, contribution = 100*wq*wd):
+    die          concept=dying        query    tf=5 df=3809 idf=1.711 wq=0.51288 wd=0.18937 -> 9.7121
+    declar       concept=declaration  query    tf=5 df=12751 idf=1.186 wq=0.35555 wd=0.18937 -> 6.733
+    convict      concept=conviction   query    tf=2 df=9672 idf=1.306 wq=0.39154 wd=0.14501 -> 5.6778
+    form         concept=form         query    tf=2 df=14316 idf=1.136 wq=0.34048 wd=0.14501 -> 4.9374
+    basi         concept=basis        query    tf=2 df=20279 idf=0.984 wq=0.29514 wd=0.14501 -> 4.2799
+  proximity: groups matched=5, window=(132, 141), span=10, value=0.417
+  stance operators: [('can', 'support', 'pos=22', 'dist=1'), ('can', 'support', 'pos=127', 'dist=5'), ('can', 'support', 'pos=136', 'dist=1')]
+  SCORE DECOMPOSITION:
+    tf-idf cosine x100 (lnc.ltc)             31.340
+    headnote-zone boost                       7.835
+    proximity x6.0                            2.500
+    stance margin x2.5                        5.384
+    title-zone hits x1.5                      0.000
+    statute match x2.0                        0.000
+    authority log2(bench=2) x0.6              0.600
+    FINAL                                    47.659   (champion list: True)
+
+== 4. EVIDENCE BALANCE (support spec + oppose spec, same index)
+  counts: {'support': 14, 'oppose': 16, 'contested': 0} | The retrieved corpus contains passages pointing in different directions on this proposition (potentially divergent judicial positions).
+  [S1]  43.47 stance-margin=1.68  2024 INSC 422   RAJENDRA S/O RAMDAS KOLHE versus STATE OF MAHARASHTRA
+  [S2]  39.42 stance-margin=1.00  2021 INSC 287   JAYAMMA & ANR versus STATE OF KARNATAKA
+  [S3]  35.97 stance-margin=1.53  2020 INSC 5     PURSHOTTAM CHOPRA & ANR. versus STATE (GOVT. OF NCT DELHI)
+  [S4]  32.35 stance-margin=1.35  2019 INSC 481   SAMPAT BABSO KALE & ANR. versus THE STATE OF MAHARASHTRA
+  [S5]  30.61 stance-margin=0.75  2023 INSC 924   ABHISHEK SHARMA versus STATE (GOVT. OF NCT OF DELHI)
+  [O1]  48.93 stance-margin=3.51  2022 INSC 634   UTTAM versus THE STATE OF MAHARASHTRA
+  [O2]  40.66 stance-margin=1.89  2018 INSC 104   MADAN @ MADHU PATEKAR versus THE STATE OF MAHARASHTRA
+  [O3]  40.47 stance-margin=2.46  2023 INSC 758   IRFAN @ NAKA versus THE STATE OF UTTAR PRADESH
+  [O4]  40.42 stance-margin=1.55  2024 INSC 169   NAEEM versus STATE OF UTTAR PRADESH
+  [O5]  32.56 stance-margin=2.00  2023 INSC 933   PARANAGOUDA AND ANOTHER versus THE STATE OF KARNATAKA AND AN
+

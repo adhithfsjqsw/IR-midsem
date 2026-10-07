@@ -1,0 +1,8 @@
+# Presentation only: light theme with a single accent colour. No server or behaviour settings.
+[theme]
+base = "light"
+primaryColor = "#1f4e79"
+backgroundColor = "#f7f8fa"
+secondaryBackgroundColor = "#eef1f5"
+textColor = "#1d2733"
+font = "sans serif"

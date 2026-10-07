@@ -1,0 +1,7 @@
+[
+{"q":"F8","pid":137814,"rel":"R","st":"C","role":"CH","party":"NA","span":"High Court also reduced rate of interest from 9% to 6% p.a.","why":"The visible part of the headnote records the High Court's reduction of interest; the Supreme Court's decision on interest is in the next passage.","conf":"M"},
+{"q":"F8","pid":82368,"rel":"R","st":"C","role":"CH","party":"NA","span":"Award of Rs. 1,00,000/- with 9% interest","why":"The visible part of the headnote records the Tribunal's award with interest; the Supreme Court's decision is not in this passage.","conf":"M"},
+{"q":"F8","pid":152012,"rel":"N","st":"C","role":"FB","party":"NA","span":"seeking compensation","why":"Facts of an insurer's right of recovery dispute; interest is not discussed.","conf":"H"},
+{"q":"F8","pid":5401,"rel":"N","st":"C","role":"OT","party":"NA","span":"In view of the aforesaid, the appeal stands dismissed.","why":"Tail of an arbitration case followed by a headnote on insurer liability; interest is not discussed in the visible text.","conf":"H"},
+{"q":"F8","pid":175375,"rel":"N","st":"C","role":"OT","party":"NA","span":"Matter pertains to the enhancement of compensation towards pain and suffering","why":"Issue concerns pain and suffering damages; interest is not discussed in the visible text.","conf":"M"}
+]
